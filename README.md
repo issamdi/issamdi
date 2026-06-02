@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://issamdaoudi.site/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Visit&color=3b82f6&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Visit&color=3b82f6&style=for-the-badge& alt="Portfolio" />
   </a>
 </p>
 
