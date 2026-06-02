@@ -1,30 +1,62 @@
-![banner](./assets/profile-banner.svg)
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Issam Daoudi - Full-Stack Developer">
+</div>
 
-# Issam Daoudi
+<h1 align="center">Hi 👋, I'm Issam Daoudi</h1>
+<h3 align="center">Full-Stack Developer | React • Node.js • Laravel</h3>
 
-Full-Stack Developer | React • Node.js • Laravel
-
-<p align="left">
-  <a href="https://github.com/issamdi"><img src="https://img.shields.io/badge/GitHub-issamdi-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://issamdi.github.io"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://linkedin.com/in/issamdaoudi"><img src="https://img.shields.io/badge/LinkedIn-issamdaoudi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center">
+  Building modern, responsive web applications with a strong focus on clean UI, maintainable code, and practical business features.
 </p>
 
-I build modern, responsive web applications with a strong focus on clean UI, maintainable code, and practical business features. My work blends frontend craft with full-stack delivery.
+<p align="center">
+  <a href="https://linkedin.com/in/issamdaoudi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://issamdaoudi.site/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/issamdi" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## Featured Work
+<hr>
 
-- **Portfolio** — https://issamdi.github.io (Personal portfolio with dark/light mode, bilingual content)
-- **Food Ordering** — https://issamdi.github.io/food-ordering-website/index.html (Multilingual, responsive ordering UI)
-- **Frontend Challenge** — https://frontend-challenge-blue-five.vercel.app/ (Pixel-perfect React UI)
-- **Pallet Management** — Work samples in `Projects/work_samples_pallet_management.pdf`
+## 🚀 About Me
 
-## Tech
+- 🔭 I’m currently building modular web applications and refining my architecture skills.
+- 🌱 I’m deepening my knowledge in modern full-stack frameworks and ecosystem tools.
+- 💬 Ask me about **React, Laravel, PHP, and modern UI practices**.
+- 📫 How to reach me: Discover more on [My Portfolio](https://issamdaoudi.site/).
+- ⚡ Fun fact: I love bridging the gap between functional logic and pixel-perfect design.
 
-`React` `JavaScript` `PHP` `Laravel` `Symfony` `MySQL` `Tailwind CSS` `Docker` `REST API`
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=issamdi&show_icons=true&theme=radical" alt="Issam's GitHub stats" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+## 🔥 Featured Projects
+
+| Project                | Description                                                         | Links                                                                   |
+| ---------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Personal Portfolio** | My centralized, bilingual portfolio with dark/light mode toggle.    | [Live Site](https://issamdaoudi.site/)                                  |
+| **Food Ordering**      | Multilingual, dynamic and responsive application for food ordering. | [Live Site](https://issamdi.github.io/food-ordering-website/index.html) |
+| **Frontend Challenge** | A pixel-perfect implementation of a precise UI challenge.           | [Live Site](https://frontend-challenge-blue-five.vercel.app/)           |
+| **Pallet Management**  | Samples of an internal warehouse/logistics workflow system.         | _See \`Projects/...\` PDF_                                              |
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=issamdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Issam's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issamdi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
 </p>
