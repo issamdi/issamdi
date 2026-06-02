@@ -28,7 +28,7 @@
 - 🔭 I’m currently building modular web applications and refining my architecture skills.
 - 🌱 I’m deepening my knowledge in modern full-stack frameworks and ecosystem tools.
 - 💬 Ask me about **React, Laravel, PHP, and modern UI practices**.
-- 📫 How to reach me: Discover more on [My Portfolio](https://issamdaoudi.site/).
+- 📫 How to reach me: Discover more on <a href="https://issamdaoudi.site/" target="_blank">My Portfolio</a>.
 - ⚡ Fun fact: I love bridging the gap between functional logic and pixel-perfect design.
 
 ## 🛠️ Tech Stack
@@ -47,16 +47,18 @@
 
 ## 🔥 Featured Projects
 
-| Project                | Description                                                         | Links                                                                   |
-| ---------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **Personal Portfolio** | My centralized, bilingual portfolio with dark/light mode toggle.    | [Live Site](https://issamdaoudi.site/)                                  |
-| **Food Ordering**      | Multilingual, dynamic and responsive application for food ordering. | [Live Site](https://issamdi.github.io/food-ordering-website/index.html) |
-| **Frontend Challenge** | A pixel-perfect implementation of a precise UI challenge.           | [Live Site](https://frontend-challenge-blue-five.vercel.app/)           |
-| **Pallet Management**  | Samples of an internal warehouse/logistics workflow system.         | _See \`Projects/...\` PDF_                                              |
+| Project                | Description                                                         | Links                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Personal Portfolio** | My centralized, bilingual portfolio with dark/light mode toggle.    | <a href="https://issamdaoudi.site/" target="_blank">Live Site</a>                                      |
+| **Food Ordering**      | Multilingual, dynamic and responsive application for food ordering. | <a href="https://issamdi.github.io/food-ordering-website/index.html" target="_blank">Live Site</a>     |
+| **Frontend Challenge** | A pixel-perfect implementation of a precise UI challenge.           | <a href="https://frontend-challenge-blue-five.vercel.app/" target="_blank">Live Site</a>               |
+| **Pallet Management**  | Samples of an internal warehouse/logistics workflow system.         | <a href="https://issamdaoudi.site/Projects/work_samples_pallet_management.pdf" target="_blank">PDF</a> |
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=issamdi&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="Issam's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issamdi&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" />
-</p>
+<div align="center">
+
+<a href="https://github.com/issamdi" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=issamdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Issam's GitHub stats"></a>
+<a href="https://github.com/issamdi" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issamdi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"></a>
+
+</div>
