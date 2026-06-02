@@ -57,6 +57,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=issamdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Issam's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issamdi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=issamdi&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="Issam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issamdi&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" />
 </p>
