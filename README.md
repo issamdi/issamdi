@@ -21,22 +21,28 @@
 
 ## About Me
 
-I’m a passionate **software engineering graduate** who learns by creating, exploring, and improving real-world projects. I love building **smart, scalable systems** that bring ideas to life — from robust APIs in Laravel and Node.js to clean, responsive interfaces in React.
+I’m a passionate **software engineer** who learns by creating, exploring, and improving real-world projects. I love building **smart, scalable systems** that bring ideas to life from robust APIs in Laravel and Node.js to clean, responsive interfaces in React.
 
 Above all, I enjoy working with people who share curiosity, kindness, and a sense of craftsmanship in software.
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ## Featured Projects
@@ -48,11 +54,20 @@ Above all, I enjoy working with people who share curiosity, kindness, and a sens
 | **Frontend Challenge** | A pixel-perfect implementation of a precise UI challenge.           | <a href="https://frontend-challenge-blue-five.vercel.app/" target="_blank">Live Site</a>               |
 | **Pallet Management**  | Samples of an internal warehouse/logistics workflow system.         | <a href="https://issamdaoudi.site/Projects/work_samples_pallet_management.pdf" target="_blank">PDF</a> |
 
-## GitHub Stats
+## Let's Connect
 
-<div align="center">
+I love connecting with people who:
 
-<a href="https://github.com/issamdi" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=issamdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Issam's GitHub stats"></a>
-<a href="https://github.com/issamdi" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issamdi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"></a>
+- Share knowledge generously
+- Enjoy building meaningful things
+- Believe in respect, curiosity, and kindness
 
-</div>
+📫 **Reach out to me on [LinkedIn](https://www.linkedin.com/in/issamdaoudi)**. I’d love to chat, learn, or collaborate!
+
+---
+
+## ✨ Fun Facts
+
+- I use **Ubuntu Linux** as my main OS — stability, speed, and style combined 🐧
+- I believe **small consistent progress beats intensity**.
+- I find joy in making **clean commits** and **beautifully structured codebases**.
