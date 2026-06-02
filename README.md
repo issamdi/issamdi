@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Issam Daoudi - Full-Stack Developer">
+  <img src="./assets/profile-banner.svg" alt="Issam Daoudi - Software Engineer | Full-Stack Developer">
 </div>
 
 <h1 align="center">Hi, I'm Issam Daoudi</h1>
-<h3 align="center">Full-Stack Developer | React • Node.js • Laravel</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | React • Node.js • Laravel • MySQL</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/issamdaoudi" target="_blank">
@@ -11,9 +11,6 @@
   </a>
   <a href="https://issamdaoudi.site/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/issamdi" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
