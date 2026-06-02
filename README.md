@@ -65,6 +65,6 @@ I love connecting with people who:
 
 ## ✨ Fun Facts
 
-- I use **Ubuntu Linux** as my main OS — stability, speed, and style combined 🐧
+- I use **Ubuntu Linux** as my main OS | stability, speed, and style combined 🐧
 - I believe **small consistent progress beats intensity**.
 - I find joy in making **clean commits** and **beautifully structured codebases**.
