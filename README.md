@@ -2,12 +2,8 @@
   <img src="./assets/profile-banner.svg" alt="Issam Daoudi - Full-Stack Developer">
 </div>
 
-<h1 align="center">Hi 👋, I'm Issam Daoudi</h1>
+<h1 align="center">Hi, I'm Issam Daoudi</h1>
 <h3 align="center">Full-Stack Developer | React • Node.js • Laravel</h3>
-
-<p align="center">
-  Building modern, responsive web applications with a strong focus on clean UI, maintainable code, and practical business features.
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/issamdaoudi" target="_blank">
@@ -23,15 +19,13 @@
 
 <hr>
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I’m currently building modular web applications and refining my architecture skills.
-- 🌱 I’m deepening my knowledge in modern full-stack frameworks and ecosystem tools.
-- 💬 Ask me about **React, Laravel, PHP, and modern UI practices**.
-- 📫 How to reach me: Discover more on <a href="https://issamdaoudi.site/" target="_blank">My Portfolio</a>.
-- ⚡ Fun fact: I love bridging the gap between functional logic and pixel-perfect design.
+I’m a passionate **software engineering graduate** who learns by creating, exploring, and improving real-world projects. I love building **smart, scalable systems** that bring ideas to life — from robust APIs in Laravel and Node.js to clean, responsive interfaces in React.
 
-## 🛠️ Tech Stack
+Above all, I enjoy working with people who share curiosity, kindness, and a sense of craftsmanship in software.
+
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -45,7 +39,7 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🔥 Featured Projects
+## Featured Projects
 
 | Project                | Description                                                         | Links                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -54,7 +48,7 @@
 | **Frontend Challenge** | A pixel-perfect implementation of a precise UI challenge.           | <a href="https://frontend-challenge-blue-five.vercel.app/" target="_blank">Live Site</a>               |
 | **Pallet Management**  | Samples of an internal warehouse/logistics workflow system.         | <a href="https://issamdaoudi.site/Projects/work_samples_pallet_management.pdf" target="_blank">PDF</a> |
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
